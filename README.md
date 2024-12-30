@@ -53,9 +53,9 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **De
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/naveenkumar-t) (1K+ followers)
-- 📧 Email: naveenkumar.t@example.com
-- 🌐 Personal Portfolio: [Coming Soon!]
+- 💼 [LinkedIn]([https://www.linkedin.com/in/naveenkumar-t](https://www.linkedin.com/in/naveenkumar-t-683306320/)) (1K+ followers)
+- 📧 Email: naveenkumart906@gmail.com
+- 🌐 Personal Portfolio: [Coming Soon...!]
 
 ---
 
