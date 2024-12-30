@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [NAVEENKUMAR T] 👋
 
 ![Profile Banner](https://via.placeholder.com/800x200?text=Welcome+to+My+GitHub+Profile)
 
