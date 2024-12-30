@@ -6,14 +6,13 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a k
 
 ## About Me
 
-- 🎓 **Grand Finalist** at **Smart India Hackathon 2024 (SIH'24)**.
-- 💻 Skilled in both frontend and backend development.
-- 💡 Solved over **210+ problems** on **LeetCode**.
-- 🏆 Achievements:
-  - 210+ problems solved on **LeetCode**.
-  - **SIH'24 Grand Finalist**.
-  - Secured **1st prize in paper presentations** at various college events.
-- 🌐 Strong presence on LinkedIn with **1K+ followers**.
+- 🎓 **Grand Finalist** at **Smart India Hackathon 2024 (SIH'24)**.  
+- 💻 Skilled in both frontend and backend development.  
+- 💡 Solved over **210+ problems** on **LeetCode**.  
+- ✨ Actively participated in hackathons and coding competitions, excelling in team collaboration and innovation.  
+- 📚 Passionate about learning and applying the latest tech trends in development and AI.  
+- 📱 Enthusiastic about developing scalable and innovative solutions to real-world challenges.  
+- 🌐 Strong presence on LinkedIn with **1K+ followers**.  
 
 ---
 
@@ -34,15 +33,15 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a k
 ## 📂 Projects
 
 ### 1. **Smart Criminal Detection**  (In Progress)
-   - **Tech Stack:** Python, MERN Stack, Cloudinary
+   - **Tech Stack:** Python, MERN Stack, Cloudinary  
    - 🚀 This project integrates AI and web technologies to enhance criminal detection efficiency.
 
 ### 2. **Online Polling System** 
-   - **Tech Stack:** MERN Stack
+   - **Tech Stack:** MERN Stack  
    - 🗳️ A secure and scalable online polling platform.
 
 ### 3. **Online Cinema Ticket Booking** 
-   - **Tech Stack:** HTML, CSS, JavaScript, PHP, SQL
+   - **Tech Stack:** HTML, CSS, JavaScript, PHP, SQL  
    - 🎥 Seamlessly book your movie tickets online with this robust system.
 
 ---
@@ -54,11 +53,11 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a k
 
 ## 📫 Connect With Me
 
-- 📱 Phone: **+91 6369010970**
-- 💼 [LinkedIn](https://www.linkedin.com/in/naveenkumar-t-683306320/) (1K+ followers)
-- ✈️ [Telegram](https://t.me/your-telegram-handle)
-- 📧 Email: naveenkumart906@gmail.com
-- 🌐 Personal Portfolio: [Coming Soon...!]
+- 📱 Phone: **+91 6369010970**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/naveenkumar-t-683306320/) (1K+ followers)  
+- ✈️ [Telegram](https://t.me/your-telegram-handle)  
+- 📧 Email: naveenkumart906@gmail.com  
+- 🌐 Personal Portfolio: [Coming Soon...!]  
 
 ---
 
