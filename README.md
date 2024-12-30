@@ -54,7 +54,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** with a k
 ## 📫 Connect With Me
 
 
-- 📱 Phone: **+91 6369010970**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/naveenkumar-t-683306320/) (1K+ followers)  
 - ✈️ [Telegram](https://t.me/your-telegram-handle)  
 - 📧 Email: naveenkumart906@gmail.com  
