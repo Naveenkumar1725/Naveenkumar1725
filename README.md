@@ -44,7 +44,10 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **De
 ---
 
 ## 📊 LeetCode Stats
-![LeetCode Stats][(https://leetcode.com/u/Naveenkumar7125)]
+![LeetCode Stats](https://leetcard.jacoblin.cool/Naveenkumar7125?theme=dark&ext=heatmap&font=Arial)
+
+---
+
 
 ---
 
